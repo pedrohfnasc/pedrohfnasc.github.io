@@ -2,7 +2,7 @@ html{background:#F5F5DC}
   
 body
 {
-  font-family:monospace
+  font-family:sans-serif
 }
 
 p
@@ -10,12 +10,8 @@ p
   font-family:monospace
 }
 
-.email
+p.email
 {
 font-family:monospace
 }
 
-img
-{
-  margin: 1.3em auto;
-  max-width: 95%;}
