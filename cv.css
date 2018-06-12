@@ -1,7 +1,12 @@
 html{background:#F5F5DC}
   
-p
+body
 {font-family:monospace}
 
 p.email{
 font-family:sans-serif}
+
+img
+{
+  margin: 1.3em auto;
+  max-width: 95%;}
