@@ -1,13 +1,19 @@
 html{background:#F5F5DC}
   
 body
-{font-family:monospace}
+{
+  font-family:monospace
+}
 
 p
-{font-family:monospace}
+{
+  font-family:monospace
+}
 
-.email{
-font-family:sans-serif}
+.email
+{
+font-family:monospace
+}
 
 img
 {
