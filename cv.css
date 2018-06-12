@@ -1,17 +1,8 @@
 html{background:#F5F5DC}
   
-body
-{
-  font-family:sans-serif
-}
+body{font-family:sans-serif}
 
-p
-{
-  font-family:monospace
-}
+p{font-family:monospace}
 
-p.email
-{
-font-family:monospace
-}
+p.email{font-family:monospace}
 
